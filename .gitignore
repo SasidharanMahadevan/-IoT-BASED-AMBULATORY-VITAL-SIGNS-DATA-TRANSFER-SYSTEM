@@ -1,0 +1,12 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+
+# MATLAB autosave files
+*.asv
+*.m~
+
+# OS junk
+.DS_Store
+Thumbs.db
